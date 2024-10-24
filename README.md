@@ -8,6 +8,4 @@
 * [ ] Basics of Lighting & Audio
 * [ ] Learn how to Build & Test a Unity Project
 
----
-
 ## 👉 [Get Started](https://github.com/software-training-for-students/intro-unity-solar-system/wiki) (Wiki)
